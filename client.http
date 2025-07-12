@@ -43,7 +43,7 @@ Content-Type: application/json
 
 # create question
 # @name createQuestion
-POST {{baseUrl}}/rooms/{{roomId}}/questions
+POST {{baseUrl}}/room/{{roomId}}/questions
 Content-Type: application/json
 
 {
